@@ -1,10 +1,10 @@
 
     :root {
         /* Light Theme */
-        --bg-color: #546758;
+        --bg-color: #424555;
         --text-color: #464578;
         --text-muted: #5b705b;
-        --primary-color: #9b78ef;
+        --primary-color: #213455;
         --secondary-color: #155471;
         --surface-color: rgba(255, 255, 255, 0.7);
         --border-color: rgba(0, 0, 0, 0.1);
